@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://bativacugeno.pages.dev/sitemap.xml
